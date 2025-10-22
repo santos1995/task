@@ -1,0 +1,5 @@
+{
+  "name": "IntelliTask Manager",
+  "description": "A smart task management system that helps you organize your one-time, weekly, monthly, and yearly tasks. It uses AI to suggest sub-tasks, helping you break down complex goals into actionable steps.",
+  "requestFramePermissions": []
+}
